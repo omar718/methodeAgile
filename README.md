@@ -1,5 +1,9 @@
 # methodeAgile
-methode agile project
+methode agile project is a team project in which I collaborated with 10 of my classmates using agile methodology for our end-term project. 
+the project consists of a homepage and a sign up and login 
+
+
+
 
 steps to begin:
 1/ downloading node js
